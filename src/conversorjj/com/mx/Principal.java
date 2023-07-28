@@ -76,8 +76,7 @@ public class Principal {
 			}
 		}
 		catch( NullPointerException ex)
-		{
-			
+		{			
 		}
 
 	}
